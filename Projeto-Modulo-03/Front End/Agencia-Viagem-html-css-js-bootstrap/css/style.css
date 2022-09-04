@@ -1,0 +1,99 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    color: rgb(250, 250, 250);
+    text-decoration: none;
+}
+
+body {
+    background-color:#9370DB;
+    margin-bottom: 100px;
+}
+
+header nav a {
+    background-color: #4B0082;
+    padding: 5px;
+    border: 1px;
+    border-radius: 5px;
+    border-color: white;
+}
+
+header nav a:hover {
+    background-color: #9370DB;
+    padding: 5px;
+    border: 1px;
+    border-radius: 5px;
+    border-color: white;
+}
+.colorPuple {
+    background: #4B0082;
+}
+
+.colorPupleLigth{
+    background-color:#9370DB;
+}
+
+.card{
+    border-radius:  0 0 70px 0;
+}
+
+aside div form div button:hover {
+    background-color: #9370DB;
+}
+
+.vertical {
+    margin: 3px;
+    border-left: 1px solid white;
+    height: 50%;
+    position:absolute;
+    left: 50%;
+}
+
+.imgIndex {
+    width: 100%;
+    height: 200px;
+}
+
+
+
+.footer a {
+    text-decoration: underline;
+    color: white;
+}
+
+.diplay-inline-flex{
+    display: inline-flex;
+}
+
+.display-flex{
+    display: flex;
+}
+
+.display-block{
+    display: block;
+}
+
+#contatosTexto{
+    display: block;
+    float: left;
+    margin-left: 40px;
+    padding: 10px;
+}
+
+#formulario{
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+#formulario div{
+    margin-bottom: 10px;
+}
+
+.contatos p{
+ margin-top: 20px;
+}
+
+
+#final{
+    margin-right: 15px ;
+}
