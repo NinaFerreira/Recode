@@ -1,0 +1,15 @@
+header nav a {
+    background-color: #4B0082;
+    padding: 5px;
+    border: 1px;
+    border-radius: 5px;
+    border-color: white;
+  }
+  
+  header nav a:hover {
+    background-color: #9370DB;
+    padding: 5px;
+    border: 1px;
+    border-radius: 5px;
+    border-color: white;
+  }
